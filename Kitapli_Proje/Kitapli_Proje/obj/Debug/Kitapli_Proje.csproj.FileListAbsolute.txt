@@ -1,0 +1,11 @@
+C:\Users\Sema Nur Zorlu\Desktop\VP - Access\Kitapli_Proje\Kitapli_Proje\obj\Debug\Kitapli_Proje.csproj.AssemblyReference.cache
+C:\Users\Sema Nur Zorlu\Desktop\VP - Access\Kitapli_Proje\Kitapli_Proje\obj\Debug\Kitapli_Proje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sema Nur Zorlu\Desktop\VP - Access\Kitapli_Proje\Kitapli_Proje\obj\Debug\Kitapli_Proje.Form1.resources
+C:\Users\Sema Nur Zorlu\Desktop\VP - Access\Kitapli_Proje\Kitapli_Proje\obj\Debug\Kitapli_Proje.Properties.Resources.resources
+C:\Users\Sema Nur Zorlu\Desktop\VP - Access\Kitapli_Proje\Kitapli_Proje\obj\Debug\Kitapli_Proje.csproj.GenerateResource.cache
+C:\Users\Sema Nur Zorlu\Desktop\VP - Access\Kitapli_Proje\Kitapli_Proje\obj\Debug\Kitapli_Proje.csproj.CoreCompileInputs.cache
+C:\Users\Sema Nur Zorlu\Desktop\VP - Access\Kitapli_Proje\Kitapli_Proje\bin\Debug\Kitapli_Proje.exe.config
+C:\Users\Sema Nur Zorlu\Desktop\VP - Access\Kitapli_Proje\Kitapli_Proje\bin\Debug\Kitapli_Proje.exe
+C:\Users\Sema Nur Zorlu\Desktop\VP - Access\Kitapli_Proje\Kitapli_Proje\bin\Debug\Kitapli_Proje.pdb
+C:\Users\Sema Nur Zorlu\Desktop\VP - Access\Kitapli_Proje\Kitapli_Proje\obj\Debug\Kitapli_Proje.exe
+C:\Users\Sema Nur Zorlu\Desktop\VP - Access\Kitapli_Proje\Kitapli_Proje\obj\Debug\Kitapli_Proje.pdb
